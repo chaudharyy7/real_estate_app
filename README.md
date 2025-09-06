@@ -17,9 +17,9 @@ The app features **bottom navigation**, **splash screen**, and a clean **UI for 
 
 ## 📸 Screenshots
 
-| Splash Screen | Home Screen | Bottom Navigation |
+| Splash Screen | Home Screen | Profile Screen |
 |---------------|-------------|--------------------|
-| ![Splash](assets/splash.png) | ![Home](assets/home.png) | ![BottomNav](assets/bottom_nav.png) |
+| ![Splash](assets/splash.png) | ![Home](assets/main.png) | ![BottomNav](assets/profile.png) |
 
 ---
 
